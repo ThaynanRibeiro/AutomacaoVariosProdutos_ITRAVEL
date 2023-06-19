@@ -1,2 +1,2 @@
-# AutomacaoVariosProdutos_ITRAVEL
- Automacao para adicionar varios produtos em um mesmo pedido
+# AutomacaoXP_ITRAVEL
+ Teste automatizado para Aereo
