@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pOu6pmsEz7mBpNnq2YSKAcwWgaVImnsTvp333JPxxWGZMUZE42tG25BJM4QncZK5+Fz1m6SIp63WffQF9jN7kQ==",
+  "dgSpecHash": "D1R82acshJEzzAE4l1XaGoQpbvi9IRf769/d9uw2zQWm2UrD2VNq8uIZF833cN/i+5v0SPANARaiLqFdmAT6mw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thaynan.ribeiro.RIOSOFT\\Documents\\GitHub\\AutomacaoXP_VariosProdutos\\FanTan\\Projeto.csproj",
+  "projectFilePath": "C:\\Users\\thaynan.ribeiro.RIOSOFT\\Documents\\GitHub\\AutomacaoXP_VariosProdutos\\AutomacaoVariosProdutos_ITRAVEL\\FanTan\\Projeto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thaynan.ribeiro.RIOSOFT\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
     "C:\\Users\\thaynan.ribeiro.RIOSOFT\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
